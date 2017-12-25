@@ -19,7 +19,7 @@
 <distributionManagement>
    <repository>
       <id>nexus-site</id>
-        <url>http://192.168.244.131:8081/</url>
+        <url>http://192.168.244.131:8081/data/</url>
    </repository>
 </distributionManagement>
 
